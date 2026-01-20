@@ -1,0 +1,17 @@
+# Core LangChain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# Google Gemini Integration
+langchain-google-genai
+
+# Vector Store
+chromadb
+
+# Web Scraping
+beautifulsoup4
+
+# Environment Variables
+python-dotenv
